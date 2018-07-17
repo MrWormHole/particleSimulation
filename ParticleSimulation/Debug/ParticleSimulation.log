@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\toshiba\documents\visual studio 2015\projects\particlesimulation\particlesimulation\main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ParticleSimulation.vcxproj -> c:\users\toshiba\documents\visual studio 2015\Projects\ParticleSimulation\Debug\ParticleSimulation.exe
+  ParticleSimulation.vcxproj -> c:\users\toshiba\documents\visual studio 2015\Projects\ParticleSimulation\Debug\ParticleSimulation.pdb (Full PDB)
